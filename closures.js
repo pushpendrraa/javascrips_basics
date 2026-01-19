@@ -1,3 +1,6 @@
+
+
+
 function counter(){
     let count=0;  //lives in the lexical environment of increment & getcount
    function increment(){
