@@ -1,3 +1,6 @@
+//A closure is created when a function remembers 
+// and can access variables from its outer (lexical) scope 
+// even after the outer function has finished execution.
 
 
 
