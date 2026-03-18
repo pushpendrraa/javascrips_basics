@@ -5,6 +5,7 @@ function doyellow(){
 };
 function dored(){
     box.style.backgroundColor="red";
+    
 };
 
 //this is a basic colour changing program when user clicks on a button
